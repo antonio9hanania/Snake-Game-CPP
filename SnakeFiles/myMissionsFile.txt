@@ -1,0 +1,9 @@
+/*template:: |TypeOfMission_MinRange,_MaxRange_GivenNum| */
+/*Please notice that every space and enters are critical for reading to mishion c'tor*/
+/*Options for missions: PRIME_UPPER_U_AND_UNDER_D, DEVIDE_X, DEVIDES_NUM_UPPER_U_UNDER_D, SQRT_OF_INTEGER_UPPER_U_AND_UNDER_D, EXERCISE_UPPER_D_AND_UNDER_D, POWER_OF_X*/
+DEVIDES_NUM_UPPER_U_UNDER_D  5 10 2
+EXERCISE_UPPER_D_AND_UNDER_D 1 9 -1
+DEVIDE_X -1 -1 7
+POWER_OF_X -1 -1 2
+PRIME_UPPER_U_AND_UNDER_D 0 169 -1
+SQRT_OF_INTEGER_UPPER_U_AND_UNDER_D 0 169 -1
